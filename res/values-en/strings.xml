@@ -11,5 +11,5 @@
     <string name="razText">Reset</string>
     <string name="noResText">You must enter values ​​and click the "calculate" button to get a result.</string>
     <string name="resText">Your BMI is:</string>
-    <string name="Erreur">Oulala! An error occurred! Check the input values.\n/!\\ (Nuts detected) /!\\</string>
+    <string name="Erreur">Oulala! An error occurred! Check the input values.\n/!\\ (Ball detected) /!\\</string>
 </resources>
