@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">BMI Calculator Loamok</string>
+    <string name="poidsLabel">Peso : </string>
+    <string name="poidsHint">Peso (kg)</string>
+    <string name="tailleLabel">Tamaño : </string>
+    <string name="tailleHint">Tamaño</string>
+    <string name="metreLabel">Metros</string>
+    <string name="cmLabel">Centímetros</string>
+    <string name="calculText">Calcular</string>
+    <string name="razText">Reajustar</string>
+    <string name="noResText">Debe introducir los valores y haga clic en "calcular" para obtener un resultado.</string>
+    <string name="resText">Su IMC es:</string>
+    <string name="Erreur">Aye Caramba ! Ha ocurrido un error! Compruebe los valores de entrada. \n /!\\(Bola detectado)/!\\</string>
+</resources>
