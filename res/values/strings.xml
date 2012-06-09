@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Loamok IMC Calculator</string>
-    <string name="poidsLabel">Poids (kilogrammes)</string>
-    <string name="poidsHint">Poids</string>
-    <string name="tailleLabel">Taille</string>
+    <string name="poidsLabel">Poids : </string>
+    <string name="poidsHint">Poids (kilogrammes)</string>
+    <string name="tailleLabel">Taille : </string>
     <string name="tailleHint">Taille</string>
     <string name="metreLabel">Mètres</string>
     <string name="cmLabel">Centimètres</string>

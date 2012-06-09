@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Loamok BMI Calculator</string>
-    <string name="poidsLabel">Weight (kg)</string>
-    <string name="poidsHint">Weight</string>
-    <string name="tailleLabel">Size</string>
-    <string name="tailleHint">Size</string>
+    <string name="poidsLabel">Weight : </string>
+    <string name="poidsHint">Weight (kg)</string>
+    <string name="tailleLabel">Size : </string>
+    <string name="tailleHint">Size (metric)</string>
     <string name="metreLabel">Meters</string>
     <string name="cmLabel">Centimeters</string>
     <string name="calculText">Calculate</string>
