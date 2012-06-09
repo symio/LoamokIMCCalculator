@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Loamok IMC Calculator</string>
+    <string name="poidsLabel">Poids (kilogrammes)</string>
+    <string name="poidsHint">Poids</string>
+    <string name="tailleLabel">Taille</string>
+    <string name="tailleHint">Taille</string>
+    <string name="metreLabel">Mètres</string>
+    <string name="cmLabel">Centimètres</string>
+    <string name="calculText">Calculer</string>
+    <string name="razText">Reset</string>
+    <string name="noResText">Vous devez entrer des valeurs et cliquer sur le bouton "calculer" pour obtenir un résultat.</string>
+    <string name="resText">Votre IMC vaut :</string>
+    <string name="Erreur">Oulala ! Une erreur s\'est produite ! Vérifiez les valeurs saisies.\n/!\\(boulet detecté)/!\\</string>
+</resources>
