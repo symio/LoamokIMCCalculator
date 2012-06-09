@@ -3,5 +3,6 @@
 /home/symio/developpement/Mobile/Android/LoamokIMCCalculator/res/values/strings.xml \
 /home/symio/developpement/Mobile/Android/LoamokIMCCalculator/res/values-en/strings.xml \
 /home/symio/developpement/Mobile/Android/LoamokIMCCalculator/res/drawable/icon.png \
+/home/symio/developpement/Mobile/Android/LoamokIMCCalculator/res/values-es/strings.xml \
 /home/symio/developpement/Mobile/Android/LoamokIMCCalculator/bin/res/drawable/icon.png \
 /home/symio/developpement/Mobile/Android/LoamokIMCCalculator/AndroidManifest.xml \
