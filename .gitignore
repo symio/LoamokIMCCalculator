@@ -1,0 +1,6 @@
+gen/*
+local.properties
+nbandroid
+nbandroid/*
+private
+private/*
