@@ -7,6 +7,7 @@
 /home/symio/developpement/Mobile/Android/LoamokIMCCalculator/bin/classes/org/loamok/utils/IMCActivity$1.class \
 /home/symio/developpement/Mobile/Android/LoamokIMCCalculator/bin/classes/org/loamok/utils/IMCActivity$3.class \
 /home/symio/developpement/Mobile/Android/LoamokIMCCalculator/bin/classes/org/loamok/utils/R$drawable.class \
+/home/symio/developpement/Mobile/Android/LoamokIMCCalculator/bin/classes/org/loamok/utils/IMCActivity$4.class \
 /home/symio/developpement/Mobile/Android/LoamokIMCCalculator/bin/classes/org/loamok/utils/IMCActivity$2.class \
 /home/symio/developpement/Mobile/Android/LoamokIMCCalculator/bin/classes/org/loamok/utils/R$id.class \
 /home/symio/developpement/Mobile/Android/LoamokIMCCalculator/bin/classes/org/loamok/utils/R$string.class \
